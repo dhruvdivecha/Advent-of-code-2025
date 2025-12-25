@@ -30,6 +30,7 @@ def partOne(grid):
 
     return splits
 
+# had to use chatgpt to help with part two
 def partTwo(grid):
     from functools import lru_cache
 
